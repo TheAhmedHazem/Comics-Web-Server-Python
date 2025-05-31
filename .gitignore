@@ -192,3 +192,7 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+comics/
+progress reports/
+FINAL_PROJECT_SUMMARY.md
